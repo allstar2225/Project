@@ -1,0 +1,5 @@
+.index_img {
+    background-image: url(../photo/back_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
